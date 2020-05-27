@@ -1,13 +1,13 @@
 # Employee-Tracker
 [![GitHub License](https://img.shields.io/badge/License-orange.svg)](Develop/License/MIT.md)
-[![GitHub Test](https://img.shields.io/badge/Test-blue.svg)](#test)
+[![Installation](https://img.shields.io/badge/Installation-blue.svg)](#installation)
 
 
 ## Description 
 
-Team Generator is a command-line-interface (CLI) application that allows a user to create a team. The user will be allowed to input information about the team member such as title and employee ID. Once the user answers a series of questions about the employees an html file will be automatically generated. 
+Employee-Tracker is a command-line-interface (CLI) application that allows a user to add, delete, and update team members of a business/company. The user will be allowed to input information about the team member such as title and employee ID. 
 
-This project has helped me gain a better understanding of Object Oriented Programming(OOP) - Encapsulation, Abstraction, Inheritance and Polymorphism. I was also able to explore and gain better understanding of inquirer and testing with jest.
+This project has helped me gain a better understanding of databases, particualrly the use of MySQL and the CRUD method-Create, Read, Update, and Delete- method (The four basic functions of persisitent storage). Additionally, I was also able to explore and gain a better understanding of inquirer.
 
 
 ## Table of Contents
@@ -26,36 +26,33 @@ This project has helped me gain a better understanding of Object Oriented Progra
 * Bootstrap
 * Node.js
 * Inquirer.js
-* Jest
+* MySQL and MySQL Workbench
 * npm
-* HTML
-* CSS
+
 
 ## Demonstration 
 
-[Application Link](https://drive.google.com/file/d/1X1uUVhLb7KOW-qnKDFIz9N1mOHsrWt2Y/view)
+[Application Link](https://drive.google.com/file/d/1kshvcSYOK74Xfsc24ylWOdHXan1ZdfMy/view)
 
-![Application Demo](Develop/Assets/Images/finisheddemo.gif)
+![Application Demo](Assets/Images/Untitled_ May 27, 2020 4_43 PM.gif)
 
 ## Application 
 
-![Finished Product](Develop/Assets/Images/finished.png)
+![Finished Product](Assets/Images/Screen Shot 2020-05-27 at 4.48.50 PM.png)
 
 ## Installation
 
 The following installations are needed for this package:
 1. npm init 
 2. npm i  
-3. npm install inquirer
+3. npm install inquirer, mysql, and console.table
     
-Once in the correct directory (app.js), run "node app.js"
+Once in the correct directory (tracker.js), run "node tracker.js"
 
 
 ## Test
 
-* To run test, run the following command 
-
-```npm run test```
+* Coming soon.
 
 
 ## Acknowledgements
