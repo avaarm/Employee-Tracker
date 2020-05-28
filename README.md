@@ -34,18 +34,17 @@ This project has helped me gain a better understanding of databases, particualrl
 
 [Application Link](https://drive.google.com/file/d/1kshvcSYOK74Xfsc24ylWOdHXan1ZdfMy/view)
 
-![Application Demo](Assets/Images/Untitled_ May 27, 2020 4_43 PM.gif)
+![Application Demo](Assets/Images/EmployeeTracker.gif)
 
 ## Application 
 
-![Finished Product](Assets/Images/Screen Shot 2020-05-27 at 4.48.50 PM.png)
+![Finished Product](Assets/Images/tracker.png)
 
 ## Installation
 
 The following installations are needed for this package:
-1. npm init 
-2. npm i  
-3. npm install inquirer, mysql, and console.table
+1. npm init  
+2. npm install inquirer, mysql, and console.table
     
 Once in the correct directory (tracker.js), run "node tracker.js"
 
@@ -63,7 +62,8 @@ Once in the correct directory (tracker.js), run "node tracker.js"
     * test files already provided
     * skeleton of html files already provided
     * htmlRenderer.js already provided
-* [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+* [Inquirer documentation](https://www.npmjs.com/package/inquirer)
+* [Mysql documentation](https://www.npmjs.com/package/mysql)
 
 
 ## Questions 
