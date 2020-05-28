@@ -7,7 +7,7 @@
 
 Employee-Tracker is a command-line-interface (CLI) application that allows a user to add, delete, and update team members of a business/company. The user will be allowed to input information about the team member such as title and employee ID. 
 
-This project has helped me gain a better understanding of databases, particualrly the use of MySQL and the CRUD method-Create, Read, Update, and Delete- method (The four basic functions of persisitent storage). Additionally, I was also able to explore and gain a better understanding of inquirer.
+This project has helped me gain a better understanding of databases, particualrly the use of MySQL and the CRUD -Create, Read, Update, and Delete- method (The four basic functions of persisitent storage). Additionally, I was also able to explore and gain a better understanding of inquirer.
 
 
 ## Table of Contents
